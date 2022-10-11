@@ -151,5 +151,5 @@ __Квантові комп'ютери__ - обчислювані пристро
 
 __Інформація взята із сайту:__ 
 
-<https://https://elearning.sumdu.edu.ua/free_content/lectured:1a259358378153792bb8645df287e86d790fc40d/20160903092057/44763/index.html>
+<https://elearning.sumdu.edu.ua/free_content/lectured:1a259358378153792bb8645df287e86d790fc40d/20160903092057/44763/index.html>
 
